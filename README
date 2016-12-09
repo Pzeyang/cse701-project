@@ -1,0 +1,4 @@
+Run 
+# python train.py
+
+The above script train on msr_paraphrase_train.txt and also evaluates every 100 train batches on test.
